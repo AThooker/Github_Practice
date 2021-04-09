@@ -9,5 +9,7 @@ namespace GithubPractice
     public class GitHubClass
     {
         public int GitID { get; set; }
+        public int NewProp { get; set; }
+        public string NotherOne { get; set; }
     }
 }

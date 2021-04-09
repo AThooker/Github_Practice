@@ -11,5 +11,8 @@ namespace GithubPractice
         public int GitID { get; set; }
         public int NewProp { get; set; }
         public string NotherOne { get; set; }
+        public int FiveFiveFive { get; set; }
+        public GitHubClass() { }
+
     }
 }
